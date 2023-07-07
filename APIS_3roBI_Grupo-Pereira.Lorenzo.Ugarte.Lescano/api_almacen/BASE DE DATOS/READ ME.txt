@@ -1,0 +1,2 @@
+Importar base de datos en MYPHPADMIN, crea automaticamente 
+la base de datos, las tablas y los datos
