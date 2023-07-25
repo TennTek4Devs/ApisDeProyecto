@@ -11,3 +11,15 @@ TLDR; (too long didnt read, muy largo para leer)
 
 categorias/category, se refiere a: lotes.
 products/productos, se refiere a: paquetes.
+
+*
+*
+*
+*
+
+La contraseña de usuarios dentro de la base de datos esta encriptada, le deje un usuario que puse su contraseña en el correo del usuario, pero se lo escribo aca...
+ _________________________
+|			                    |
+|    USUARIO: admin123	  |
+|  CONTRASEÑA: admin123	  |
+|_________________________|
